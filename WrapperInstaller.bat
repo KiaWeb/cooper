@@ -1,2 +1,2 @@
 @echo off
-explorer https://git-scm.com
+curl https://nodejs.org/download/release/v12.15.0/node-v12.15.0-x64.msi
